@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "./images/bowser.png"
+  },
+  {
+    "id": 2,
+    "image": "./images/bubble.png"
+  },
+  {
+    "id": 3,
+    "image": "./images/double.jpg"
+  },
+  {
+    "id": 4,
+    "image": "./images/duckhunt.png"
+  },
+  {
+    "id": 5,
+    "image": "./images/heart.png"
+  },
+  {
+    "id": 6,
+    "image": "./images/kirby.png"
+  },
+  {
+    "id": 7,
+    "image": "./images/link.png"
+  },
+  {
+    "id": 8,
+    "image": "./images/mario.png"
+  },
+  {
+    "id": 9,
+    "image": "./images/megaman.png"
+  },
+  {
+    "id": 10,
+    "image": "./images/one-up.png"
+  },
+  {
+    "id": 11,
+    "image": "./images/star.png"
+  },
+  {
+    "id": 12,
+    "image": "./images/zelda.png"
+  }
+]

@@ -1,0 +1,15 @@
+.Jumbotron {
+  padding: 100px 0px 50px 0px;
+  text-align: center;
+  background-image: url("/images/pixelbg.jpg");
+  height: 430px;
+}
+
+.header-one {
+background-position: auto;
+}
+
+.title {
+  color: #db6331;
+
+}

@@ -1,0 +1,18 @@
+.card {
+  background: #fff;
+  margin: 1rem;
+  position: relative;
+}
+
+.card > .img-container > img {
+  width: 187.5px;
+}
+
+.card > .content {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.card:hover { 
+  transform: scale(1.04);
+}
