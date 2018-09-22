@@ -1,7 +1,7 @@
 .Jumbotron {
   padding: 100px 0px 50px 0px;
   text-align: center;
-  background-image: url("/images/pixelbg.jpg");
+  background-image: url("./pixelbg.jpg");
   height: 430px;
 }
 
