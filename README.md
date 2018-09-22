@@ -9,7 +9,7 @@ A React.js memory game that requires you to break up your application's UI into 
 
 ![Clicky Game Screen](public/images/bits2.png)
 
-[Deployed Project](https://lindnerdesign.github.io/clicky-game)
+[Deployed Project](https://lindnerdesign.github.io/clickygame)
 
 ## Tools ##
 
